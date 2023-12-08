@@ -8,7 +8,7 @@ import { MatCardModule } from "@angular/material/card";
 import { MatDividerModule } from "@angular/material/divider";
 import { MatProgressBarModule } from "@angular/material/progress-bar";
 import { MatButtonModule } from "@angular/material/button";
-import {likePost} from "../../store/actions/post.actions";
+import { likePost } from "../../store/actions/post.actions";
 
 @Component({
   selector: 'app-all-posts',
